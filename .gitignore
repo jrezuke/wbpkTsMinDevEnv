@@ -1,3 +1,6 @@
+statsgraph/
+dist/
+
 # Logs
 logs
 *.log
